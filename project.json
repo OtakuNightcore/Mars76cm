@@ -1,0 +1,10 @@
+{
+    "name": "Mars76cm",
+    "version": "1.0.0",
+    "manifest_version": 1,
+    "project_type": "application",
+    "executable_type": "scratch",
+    "executable": "Mars76cm.xml",
+    "author": "OtakuNightcore",
+    "minimum_firmware_version": 42
+}
